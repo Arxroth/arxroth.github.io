@@ -1,2 +1,3 @@
 # arxroth.github.io
-Pages learning
+
+Learning github pages features and making something fun here.
